@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2020-12-13T23:40:49.234+0000">
+  <deletedFolders>process/Sales/Analytics</deletedFolders>
+  <deletedFolders>process/Sales/LoadTables</deletedFolders>
+  <deletedItems id="_meo0MOTCEeaaN4bqKCHblw" path="Sales/Analytics" type="PROCESS"/>
+  <deletedItems id="_2fuQAOSzEeaaN4bqKCHblw" path="Sales/Initialize" type="PROCESS"/>
+  <deletedItems id="_U5dcUOS5EeaaN4bqKCHblw" path="Sales/LoadTables" type="PROCESS"/>
+  <deletedItems id="_Qea-YKY1Eeq7wLNl2wzehA" path="Sales/LoadTables" type="PROCESS"/>
+  <deletedItems id="_suxZsOS7EeaaN4bqKCHblw" path="Sales/LoadTables" type="PROCESS"/>
+</recyclebin:RecycleBin>
