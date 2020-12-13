@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2020-12-13T23:41:04.422+0000">
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2020-12-13T23:41:28.119+0000">
   <deletedFolders>process/Sales/Analytics</deletedFolders>
-  <deletedFolders>process/Sales/LoadTables</deletedFolders>
   <deletedFolders>process/Sales/Initialize</deletedFolders>
-  <deletedFolders>process/Sales</deletedFolders>
   <deletedItems id="_meo0MOTCEeaaN4bqKCHblw" path="Sales/Analytics" type="PROCESS"/>
   <deletedItems id="_2fuQAOSzEeaaN4bqKCHblw" path="Sales/Initialize" type="PROCESS"/>
   <deletedItems id="_U5dcUOS5EeaaN4bqKCHblw" path="Sales/LoadTables" type="PROCESS"/>
