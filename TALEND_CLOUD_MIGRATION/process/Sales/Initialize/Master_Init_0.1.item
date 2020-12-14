@@ -4,60 +4,60 @@
     <contextParameter comment="" name="parameter_MySQL_AdditionalParams" prompt="parameter_MySQL_AdditionalParams?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="noDatetimeStringSync=true"/>
     <contextParameter comment="" name="parameter_MySQL_Database" prompt="parameter_MySQL_Database?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="training"/>
     <contextParameter comment="" name="parameter_MySQL_Server" prompt="parameter_MySQL_Server?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="mysql-server"/>
-    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_Password" value="enc:system.encryption.key.v1:I98M2mghlJz17VPJXaFUw0SDk9CvZl+wbvpvqoLvdx25QA=="/>
+    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_Password" value="enc:system.encryption.key.v1:4n6g8EvlB403+dvuv23RnAyMEAkqVGGh/+lVWC5OqdjzAA=="/>
     <contextParameter comment="" name="parameter_MySQL_Port" prompt="parameter_MySQL_Port?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="3306"/>
     <contextParameter comment="" name="parameter_MySQL_Shop_Table" prompt="parameter_MySQL_Shop_Table?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="SalesStaging"/>
     <contextParameter comment="" name="parameter_MySQL_Customers_Table" prompt="parameter_MySQL_Customers_Table?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="RetailCustomer"/>
     <contextParameter comment="" name="parameter_MySQL_Product_Table" prompt="parameter_MySQL_Product_Table?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="RetailProduct"/>
-    <contextParameter comment="" name="Files_RetailCustomers_Path" prompt="Files_RetailCustomers_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/refCustomer.csv"/>
-    <contextParameter comment="" name="Files_RetailSales_Path1" prompt="Files_RetailSales_Path1?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop1.out"/>
-    <contextParameter comment="" name="Files_RowSeparator" prompt="Files_RowSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;\n&quot;"/>
-    <contextParameter comment="" name="Files_FieldSeparator" prompt="Files_FieldSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;;&quot;"/>
-    <contextParameter comment="" name="Files_RetailCustomers_Header" prompt="Files_RetailCustomers_Header?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_Integer" value="6"/>
-    <contextParameter comment="" name="Files_RetailProducts_Path" prompt="Files_RetailProducts_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="C:/StudentFiles/refProducts.csv"/>
-    <contextParameter comment="" name="Files_Encoding" prompt="Files_Encoding?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="US-ASCII"/>
-    <contextParameter comment="" name="Files_RetailSales_Path2" prompt="Files_RetailSales_Path2?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop2.out"/>
-    <contextParameter comment="" name="Files_RetailSales_Path3" prompt="Files_RetailSales_Path3?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop3.out"/>
+    <contextParameter comment="" name="parameter_Files_parameter_RetailCustomers_Path" prompt="parameter_Files_parameter_RetailCustomers_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/refCustomer.csv"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path1" prompt="parameter_Files_RetailSales_Path1?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop1.out"/>
+    <contextParameter comment="" name="parameter_Files_RowSeparator" prompt="parameter_Files_RowSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter comment="" name="parameter_Files_FieldSeparator" prompt="parameter_Files_FieldSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter comment="" name="parameter_Files_RetailCustomers_Header" prompt="parameter_Files_RetailCustomers_Header?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_Integer" value="6"/>
+    <contextParameter comment="" name="parameter_Files_RetailProducts_Path" prompt="parameter_Files_RetailProducts_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="C:/StudentFiles/refProducts.csv"/>
+    <contextParameter comment="" name="parameter_Files_Encoding" prompt="parameter_Files_Encoding?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="US-ASCII"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path2" prompt="parameter_Files_RetailSales_Path2?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop2.out"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path3" prompt="parameter_Files_RetailSales_Path3?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop3.out"/>
   </context>
   <context confirmationNeeded="false" name="dev">
     <contextParameter comment="" name="parameter_MySQL_Login" prompt="parameter_MySQL_Login?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="talend"/>
     <contextParameter comment="" name="parameter_MySQL_AdditionalParams" prompt="parameter_MySQL_AdditionalParams?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="noDatetimeStringSync=true"/>
     <contextParameter comment="" name="parameter_MySQL_Database" prompt="parameter_MySQL_Database?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="training_dev"/>
     <contextParameter comment="" name="parameter_MySQL_Server" prompt="parameter_MySQL_Server?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="mysql-server"/>
-    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_Password" value="enc:system.encryption.key.v1:MWZLhbSCqZ25VjgC93wqjFij8Gi7pzghKaa/9+9RX5NXCA=="/>
+    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_Password" value="enc:system.encryption.key.v1:6+CfupBYR9MSi5tBQW38PSCxdykaRDEhVRzfkvWBDSNiGA=="/>
     <contextParameter comment="" name="parameter_MySQL_Port" prompt="parameter_MySQL_Port?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="3306"/>
     <contextParameter comment="" name="parameter_MySQL_Product_Table" prompt="parameter_MySQL_Product_Table?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="RetailProduct"/>
     <contextParameter comment="" name="parameter_MySQL_Shop_Table" prompt="parameter_MySQL_Shop_Table?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="SalesStaging"/>
     <contextParameter comment="" name="parameter_MySQL_Customers_Table" prompt="parameter_MySQL_Customers_Table?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="RetailCustomer"/>
-    <contextParameter comment="" name="Files_RetailCustomers_Path" prompt="Files_RetailCustomers_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/refCustomer.csv"/>
-    <contextParameter comment="" name="Files_RetailSales_Path1" prompt="Files_RetailSales_Path1?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop1.out"/>
-    <contextParameter comment="" name="Files_RowSeparator" prompt="Files_RowSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;\n&quot;"/>
-    <contextParameter comment="" name="Files_FieldSeparator" prompt="Files_FieldSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;;&quot;"/>
-    <contextParameter comment="" name="Files_RetailCustomers_Header" prompt="Files_RetailCustomers_Header?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_Integer" value="6"/>
-    <contextParameter comment="" name="Files_RetailProducts_Path" prompt="Files_RetailProducts_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="/home/talenduser/files/dev/refProducts.csv"/>
-    <contextParameter comment="" name="Files_Encoding" prompt="Files_Encoding?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="US-ASCII"/>
-    <contextParameter comment="" name="Files_RetailSales_Path2" prompt="Files_RetailSales_Path2?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop2.out"/>
-    <contextParameter comment="" name="Files_RetailSales_Path3" prompt="Files_RetailSales_Path3?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop3.out"/>
+    <contextParameter comment="" name="parameter_Files_parameter_RetailCustomers_Path" prompt="parameter_Files_parameter_RetailCustomers_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/refCustomer.csv"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path1" prompt="parameter_Files_RetailSales_Path1?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop1.out"/>
+    <contextParameter comment="" name="parameter_Files_RowSeparator" prompt="parameter_Files_RowSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter comment="" name="parameter_Files_FieldSeparator" prompt="parameter_Files_FieldSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter comment="" name="parameter_Files_RetailCustomers_Header" prompt="parameter_Files_RetailCustomers_Header?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_Integer" value="6"/>
+    <contextParameter comment="" name="parameter_Files_RetailProducts_Path" prompt="parameter_Files_RetailProducts_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="/home/talenduser/files/dev/refProducts.csv"/>
+    <contextParameter comment="" name="parameter_Files_Encoding" prompt="parameter_Files_Encoding?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="US-ASCII"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path2" prompt="parameter_Files_RetailSales_Path2?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop2.out"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path3" prompt="parameter_Files_RetailSales_Path3?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop3.out"/>
   </context>
   <context confirmationNeeded="false" name="prod">
     <contextParameter comment="" name="parameter_MySQL_Login" prompt="parameter_MySQL_Login?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="talend"/>
     <contextParameter comment="" name="parameter_MySQL_AdditionalParams" prompt="parameter_MySQL_AdditionalParams?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="noDatetimeStringSync=true"/>
     <contextParameter comment="" name="parameter_MySQL_Database" prompt="parameter_MySQL_Database?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="training_prd"/>
     <contextParameter comment="" name="parameter_MySQL_Server" prompt="parameter_MySQL_Server?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="mysql-server"/>
-    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_Password" value="enc:system.encryption.key.v1:XJDcY/33tbRf2ZZAvKuL94qrDOO4RSNLbb5ALfD2h2EFGA=="/>
+    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_Password" value="enc:system.encryption.key.v1:Hz+TXEmhuq+iVuOf2UkYdHMYRZB+DPzDhx9+rAJqVhIDRg=="/>
     <contextParameter comment="" name="parameter_MySQL_Port" prompt="parameter_MySQL_Port?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="3306"/>
     <contextParameter comment="" name="parameter_MySQL_Shop_Table" prompt="parameter_MySQL_Shop_Table?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="SalesStaging"/>
     <contextParameter comment="" name="parameter_MySQL_Customers_Table" prompt="parameter_MySQL_Customers_Table?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="RetailCustomer"/>
     <contextParameter comment="" name="parameter_MySQL_Product_Table" prompt="parameter_MySQL_Product_Table?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="RetailProduct"/>
-    <contextParameter comment="" name="Files_RetailCustomers_Path" prompt="Files_RetailCustomers_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/refCustomer.csv"/>
-    <contextParameter comment="" name="Files_RetailSales_Path1" prompt="Files_RetailSales_Path1?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop1.out"/>
-    <contextParameter comment="" name="Files_RowSeparator" prompt="Files_RowSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;\n&quot;"/>
-    <contextParameter comment="" name="Files_FieldSeparator" prompt="Files_FieldSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;;&quot;"/>
-    <contextParameter comment="" name="Files_RetailCustomers_Header" prompt="Files_RetailCustomers_Header?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_Integer" value="6"/>
-    <contextParameter comment="" name="Files_RetailProducts_Path" prompt="Files_RetailProducts_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="C:/StudentFiles/refProducts.csv"/>
-    <contextParameter comment="" name="Files_Encoding" prompt="Files_Encoding?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="US-ASCII"/>
-    <contextParameter comment="" name="Files_RetailSales_Path2" prompt="Files_RetailSales_Path2?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop2.out"/>
-    <contextParameter comment="" name="Files_RetailSales_Path3" prompt="Files_RetailSales_Path3?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop3.out"/>
+    <contextParameter comment="" name="parameter_Files_parameter_RetailCustomers_Path" prompt="parameter_Files_parameter_RetailCustomers_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/refCustomer.csv"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path1" prompt="parameter_Files_RetailSales_Path1?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop1.out"/>
+    <contextParameter comment="" name="parameter_Files_RowSeparator" prompt="parameter_Files_RowSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter comment="" name="parameter_Files_FieldSeparator" prompt="parameter_Files_FieldSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter comment="" name="parameter_Files_RetailCustomers_Header" prompt="parameter_Files_RetailCustomers_Header?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_Integer" value="6"/>
+    <contextParameter comment="" name="parameter_Files_RetailProducts_Path" prompt="parameter_Files_RetailProducts_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="C:/StudentFiles/refProducts.csv"/>
+    <contextParameter comment="" name="parameter_Files_Encoding" prompt="parameter_Files_Encoding?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="US-ASCII"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path2" prompt="parameter_Files_RetailSales_Path2?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop2.out"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path3" prompt="parameter_Files_RetailSales_Path3?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="C:/StudentFiles/SalesFiles/shop3.out"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" show="false" value="0"/>
@@ -101,7 +101,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:MbubYGnGxCCP2r1hbEdQl+cUsdVwPJ9LId18YR8z"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:14BSgNY0KnZkF3qdFlVc/UAfsSGPOQQ1VePzPHjl"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -136,7 +136,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:iSiIiYXhqlNtqRWoISrYv9mxF/LgoErfwFw/r8Wg"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:aC12eAIxvekSP5zFXUvT347dTK08F+6OqYsnJh79"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -227,15 +227,15 @@
     <elementParameter field="CHECK" name="TRANSMIT_WHOLE_CONTEXT" value="false"/>
     <elementParameter field="TABLE" name="CONTEXTPARAMS">
       <elementValue elementRef="PARAM_NAME_COLUMN" value="Sales_File1"/>
-      <elementValue elementRef="PARAM_VALUE_COLUMN" value="context.Files_RetailSales_Path1"/>
+      <elementValue elementRef="PARAM_VALUE_COLUMN" value="context.parameter_Files_RetailSales_Path1"/>
       <elementValue elementRef="PARAM_NAME_COLUMN" value="Sales_File2"/>
-      <elementValue elementRef="PARAM_VALUE_COLUMN" value="context.Files_RetailSales_Path2"/>
+      <elementValue elementRef="PARAM_VALUE_COLUMN" value="context.parameter_Files_RetailSales_Path2"/>
       <elementValue elementRef="PARAM_NAME_COLUMN" value="Sales_File3"/>
-      <elementValue elementRef="PARAM_VALUE_COLUMN" value="context.Files_RetailSales_Path3"/>
+      <elementValue elementRef="PARAM_VALUE_COLUMN" value="context.parameter_Files_RetailSales_Path3"/>
       <elementValue elementRef="PARAM_NAME_COLUMN" value="RowSeparator"/>
-      <elementValue elementRef="PARAM_VALUE_COLUMN" value="context.Files_RowSeparator"/>
+      <elementValue elementRef="PARAM_VALUE_COLUMN" value="context.parameter_Files_RowSeparator"/>
       <elementValue elementRef="PARAM_NAME_COLUMN" value="FieldSeparator"/>
-      <elementValue elementRef="PARAM_VALUE_COLUMN" value="context.Files_FieldSeparator"/>
+      <elementValue elementRef="PARAM_VALUE_COLUMN" value="context.parameter_Files_FieldSeparator"/>
     </elementParameter>
     <elementParameter field="CHECK" name="PROPAGATE_CHILD_RESULT" value="false"/>
     <elementParameter field="CHECK" name="PRINT_PARAMETER" value="false"/>
@@ -260,13 +260,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_2d833e1c-1325-400c-87c2-1dbc9183c5b8"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>7N/TkxYxAJCUjwkTUQ206CPJ7RBxaeFAhdULmFH4hGMPwi5dnHJ+V/Wa/dx37uosdAVgg97EnfbH
-nMeI1FBj6A==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_c7d3e335-bd12-4294-9741-aaa5cf50ba14"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>lJSo5J1niWgtShL+y6BgYsMyJHlhtTj9S1k8O7jQv1KXmkQj3DIi+xA96zgCnw4LN/enhVhH+Ssm
-IbCoD17FTA==</DigestValue></Reference></SignedInfo><SignatureValue>ph+47XbmTtaQfojSnNL4KhYHiTzAbwovkxCDLRfXKedfOgsyPa5qRPqIF+eokHXhmVd4rKyU/uzk
-e7GTfpvS0jjxCNICAy7P62oqODtezlGhuwEOfGu/UBhr51Y9LES/Ral4LbfXUTLH8hTHdsTp+zlG
-5XvhzI/LSZpWy/1+CnC1GQrndNx95Eq5cAu0GYXlQnM9r9q9vV93AlHE5U/sL16RvsfMo/fWIxR9
-ercQ/0UH2ew8xsQahNwgMCx/TpnptsOb9FYg89lQJN3izCP2aRR1VOwFWiOfxT6CKZgXub5uJdZf
-qkZM2rKMDAdLHNsrwoyh2QzpwnBjyXPL5HE9Yw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_cbf6bc20-27d4-4555-b7e6-32a081f61c05"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>JbUzhHbIlknHBwUg65CoWPeAYVkzRXSXPsdFMiVMKLvThUou+hzZ6D7+7r1AGtb1czN6EI7riMCp
+pYu977Wkcw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_4201bb82-d5da-45e9-be35-bc72ef52f8ec"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>4GY9R/hf/RojL5pmMyrxBsDtgU3f7xmsMldfajCU6PQkTUduwP9y7/3BpGsBVcy5eguTzWxFmspZ
+4/XuiN69Qg==</DigestValue></Reference></SignedInfo><SignatureValue>IzmOp3hMmVjhFnXDCr7mTq+pB8xfoq0YTdObje74OvIbKBY8mvqdcfdWk9r0AMQQfb97nWEjwWQw
+NpGgMuVx8od3eonPDBkb5tYhpQmfygGHA99iOIr0FzZdJ0fcBSIRlv/LwFt3dTbT5Yo1zer79xAs
+a+RpBKUcDhPthE9aQdMiUUTaiCQb78vRxXURgvsirUG60SOvYD7pXBwuWmtiW3vbyhs9Zxmnfrj6
+MoFXz32eZCFGzMviRW6HKabNMjkAxSvpqMZcz1y/G4giQDqc81H//BR6BQt1QMpS8r3X4fVohREs
+njjhoAJ3uPJBkecfV4WrKtUnu8DuB4Dj+r3OpQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -288,4 +288,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_c7d3e335-bd12-4294-9741-aaa5cf50ba14" Target="#_2d833e1c-1325-400c-87c2-1dbc9183c5b8"><Timestamp>2020-12-14 01:10:05</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_4201bb82-d5da-45e9-be35-bc72ef52f8ec" Target="#_cbf6bc20-27d4-4555-b7e6-32a081f61c05"><Timestamp>2020-12-14 01:15:22</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
