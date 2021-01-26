@@ -4,41 +4,44 @@
     <contextParameter comment="" name="parameter_MySQL_AdditionalParams" prompt="parameter_MySQL_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_hiohwj2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Database" prompt="parameter_MySQL_Database?" promptNeeded="false" type="id_String" value="training" xmi:id="_hiohwz2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Server" prompt="parameter_MySQL_Server?" promptNeeded="false" type="id_String" value="mysql-server" xmi:id="_hiohxD2dEeunKJvGE4d2fw"/>
-    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:YqzfF4VdMlPbRwt82vUtw0Q1+v/FVtw8BhcfTLvyt6Eo4g==" xmi:id="_hiohxT2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:Qthn933sHz9Vz5gYu1LQgUf1pcObLuc9LDPy+pyVK9ae9A==" xmi:id="_hiohxT2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Port" prompt="parameter_MySQL_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_hiohxj2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Product_Table" prompt="parameter_MySQL_Product_Table?" promptNeeded="false" type="id_String" value="RetailProduct" xmi:id="_hiohxz2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Shop_Table" prompt="parameter_MySQL_Shop_Table?" promptNeeded="false" type="id_String" value="SalesStaging" xmi:id="_hiohyD2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Customers_Table" prompt="parameter_MySQL_Customers_Table?" promptNeeded="false" type="id_String" value="RetailCustomer" xmi:id="_hiohyT2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="Debugging Field" name="parameter_MySQL_environment" prompt="parameter_MySQL_environment?" promptNeeded="false" type="id_String" value="Default" xmi:id="_ZtHmYF9wEeuSReX7B_HptQ"/>
   </talendfile:ContextType>
   <talendfile:ContextType confirmationNeeded="false" name="dev" xmi:id="_hiohyj2dEeunKJvGE4d2fw">
     <contextParameter comment="" name="parameter_MySQL_Login" prompt="parameter_MySQL_Login?" promptNeeded="false" type="id_String" value="talend" xmi:id="_hiohyz2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_AdditionalParams" prompt="parameter_MySQL_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_hiohzD2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Database" prompt="parameter_MySQL_Database?" promptNeeded="false" type="id_String" value="training_dev" xmi:id="_hiohzT2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Server" prompt="parameter_MySQL_Server?" promptNeeded="false" type="id_String" value="mysql-server" xmi:id="_hiohzj2dEeunKJvGE4d2fw"/>
-    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:dwgodwpMGtxlYzU+IEC1U3h38rzyFDDF5U/R4VV8lGLtoA==" xmi:id="_hiohzz2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:dzN1CRJOQJy3AhCXGqkFIi7DBzgcOpseF7sWa84TamstDA==" xmi:id="_hiohzz2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Port" prompt="parameter_MySQL_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_hioh0D2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Product_Table" prompt="parameter_MySQL_Product_Table?" promptNeeded="false" type="id_String" value="RetailProduct" xmi:id="_hioh0T2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Shop_Table" prompt="parameter_MySQL_Shop_Table?" promptNeeded="false" type="id_String" value="SalesStaging" xmi:id="_hioh0j2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Customers_Table" prompt="parameter_MySQL_Customers_Table?" promptNeeded="false" type="id_String" value="RetailCustomer" xmi:id="_hioh0z2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="Debugging Field" name="parameter_MySQL_environment" prompt="parameter_MySQL_environment?" promptNeeded="false" type="id_String" value="dev" xmi:id="_ZtHmYV9wEeuSReX7B_HptQ"/>
   </talendfile:ContextType>
   <talendfile:ContextType confirmationNeeded="false" name="prod" xmi:id="_hioh1D2dEeunKJvGE4d2fw">
     <contextParameter comment="" name="parameter_MySQL_Login" prompt="parameter_MySQL_Login?" promptNeeded="false" type="id_String" value="talend" xmi:id="_hioh1T2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_AdditionalParams" prompt="parameter_MySQL_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_hioh1j2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Database" prompt="parameter_MySQL_Database?" promptNeeded="false" type="id_String" value="training_prd" xmi:id="_hioh1z2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Server" prompt="parameter_MySQL_Server?" promptNeeded="false" type="id_String" value="mysql-server" xmi:id="_hioh2D2dEeunKJvGE4d2fw"/>
-    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:AR0OjFpomxAqTnwXQ82PNbFSJo3k/WYYLgHnGqq32NyJag==" xmi:id="_hioh2T2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:+aki1b/KF8lNBSLg1pFCt2K1yOfOY1NMi1M/royM1ePwwQ==" xmi:id="_hioh2T2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Port" prompt="parameter_MySQL_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_hioh2j2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Product_Table" prompt="parameter_MySQL_Product_Table?" promptNeeded="false" type="id_String" value="RetailProduct" xmi:id="_hioh2z2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Shop_Table" prompt="parameter_MySQL_Shop_Table?" promptNeeded="false" type="id_String" value="SalesStaging" xmi:id="_hioh3D2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_MySQL_Customers_Table" prompt="parameter_MySQL_Customers_Table?" promptNeeded="false" type="id_String" value="RetailCustomer" xmi:id="_hioh3T2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="Debugging Field" name="parameter_MySQL_environment" prompt="parameter_MySQL_environment?" promptNeeded="false" type="id_String" value="prod" xmi:id="_ZtHmYl9wEeuSReX7B_HptQ"/>
   </talendfile:ContextType>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_60b61b58-c248-4a4d-abb3-9ba4c5f2107f"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>4ETv0bFkiD8OqswVOpzvG6fbfu/RLpEFndRkkn2z1OxHQpq6YhZPoJ4TiDyiR8tCSThhcLH4kiHR
-yp+zYjdCOg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_0430f429-acad-40d5-8686-2d12b848615d"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>fNMXItrXf8zJInl35DcSG9WgzSLBVXeaIhkWIBxhox9NK/4SPP+LwRSdLGYJ+egd3Ln3BEz3ITq1
-16T1RuOcHQ==</DigestValue></Reference></SignedInfo><SignatureValue>FY2YCZlLx3bjkV4KKKRMpYuXkdvOKH1vJIUzRbHruYAjfZ5vZ8737okj5BPFh/q4zwgsGVUxbUvn
-t8vgYjHUxe/6hptCVAnVSMnRi/Xg4WiQdxs2+LdPAEQfR0t/eKp/UphkfHLf85ZJkmM2eI0gc3w6
-JjLHL3EKK/p5yvWhhMHr0QO0SG54xapu6RHT1NInBFuAm07hWGqE1FrtKolcH3R70Nh69iumrv+r
-Z2z43Yqd5JPbKh95E42gb51Rvfca1oMgIcLlShgMC+uEGOxhTZHMhACAxFb+hyaDpwlqS17sJDJX
-s22qQzVdd3Mspg+xUe99o7ObGieV8pMhkIUrZg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_153c5f9d-bd84-43e6-9c75-4b483eea88a9"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>+AkSzgVxVHItTxExrjwUtUgLNxMo7HN3w6go5ck6PONrTKzc50JKmgH/xyFWUIFPT7YMeE64xGTL
+MYBYWCvShQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_006d0e35-3743-4052-a425-45a72898da74"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>9EMBNvBiRoAGKf9jex6F96+rRU3hNVz0hETuMsgGn8fnouxAOc9gPeCEei6V95EpGC4E34tHq0z6
+8f8EDRrsJA==</DigestValue></Reference></SignedInfo><SignatureValue>FquTjbCstl9uopIpJ896zxQO5CVeLhmRjf44bD4MN7HNOj6G7ZrSA0/laYT7qKvQOkPjNAXjoOhH
+ndnp0fGObUagaYUpSBwIu1G0UaG0ITv88ViIhvzMIMYZijDl7CEs9wEVonOnRJWW/pvcWfjyfMYy
+sj0ASCOaNcfkgkebzaqx8zy3U0iNLsnerI1wK7yABpJLYHyfcrbo5zN2SAtZJmeNxfq+P7T+eb6y
+m5wHunKSYkwK8pJxtPSkZLISqVT0nH09SNqKuwYEOXoC9/tTp1JTrmWsB2AygEfP3PzzC2f12plL
+LH2JPHyD04Gub2zLDvtisha7+/PT5n24CUccHQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -60,4 +63,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_0430f429-acad-40d5-8686-2d12b848615d" Target="#_60b61b58-c248-4a4d-abb3-9ba4c5f2107f"><Timestamp>2020-12-14 22:29:29</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_006d0e35-3743-4052-a425-45a72898da74" Target="#_153c5f9d-bd84-43e6-9c75-4b483eea88a9"><Timestamp>2021-01-26 00:49:59</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
