@@ -34,6 +34,7 @@
     <module>jobs/process/Sales/LoadTables/productstablesetup_0.1</module>
     <module>jobs/process/TestJobs/testcloud_0.1</module>
     <module>jobs/process/TestJobs/testparam_0.1</module>
+    <module>jobs/process/TestJobs/testparama_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
