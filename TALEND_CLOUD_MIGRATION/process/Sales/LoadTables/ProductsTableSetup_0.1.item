@@ -22,9 +22,36 @@
     <contextParameter comment="" name="parameter_MySQL_Port" prompt="parameter_MySQL_Port?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="3306"/>
     <contextParameter comment="" name="parameter_MySQL_Login" prompt="parameter_MySQL_Login?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="talend"/>
     <contextParameter comment="" name="parameter_MySQL_Database" prompt="parameter_MySQL_Database?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="training"/>
-    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_Password" value="enc:system.encryption.key.v1:nOJAmime1QCwV5B+UFwmBCoJka+GsUA2QiKfU7I6KrufXQ=="/>
+    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_Password" value="enc:system.encryption.key.v1:nkcQmnlCKA2JZ2uTSgD3826bYR3FtLMy23WUnJFSuM/vYw=="/>
     <contextParameter comment="" name="parameter_MySQL_AdditionalParams" prompt="parameter_MySQL_AdditionalParams?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="noDatetimeStringSync=true"/>
     <contextParameter comment="" name="parameter_MySQL_Server" prompt="parameter_MySQL_Server?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="mysql-server"/>
+  </context>
+  <context confirmationNeeded="false" name="x">
+    <contextParameter comment="" name="Server" prompt="Server?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Database" prompt="Database?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Port" prompt="Port?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Password" prompt="Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter comment="" name="AdditionalParams" prompt="AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="ProductsDB" prompt="ProductsDB?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Products_File" prompt="Products_File?" promptNeeded="false" type="id_File" value=""/>
+    <contextParameter comment="" name="Row_Separator" prompt="Row_Separator?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Field_Separator" prompt="Field_Separator?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Login" prompt="Login?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="parameter_MySQL_Port" prompt="parameter_MySQL_Port?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="3306"/>
+    <contextParameter comment="" name="parameter_MySQL_Login" prompt="parameter_MySQL_Login?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="talend"/>
+    <contextParameter comment="" name="parameter_MySQL_Database" prompt="parameter_MySQL_Database?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="training_dev"/>
+    <contextParameter comment="" name="parameter_MySQL_Password" prompt="parameter_MySQL_Password?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_Password" value="enc:system.encryption.key.v1:/yCqcZR+kEFCvelEsXZUQP+D4DMRCW9e+iIswY8sRo0KVA=="/>
+    <contextParameter comment="" name="parameter_MySQL_AdditionalParams" prompt="parameter_MySQL_AdditionalParams?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter comment="" name="parameter_MySQL_Server" prompt="parameter_MySQL_Server?" promptNeeded="false" repositoryContextId="_E3M5oOS5EeaaN4bqKCHblw" type="id_String" value="mysql-server"/>
+    <contextParameter comment="" name="parameter_Files_RowSeparator" prompt="parameter_Files_RowSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter comment="" name="parameter_Files_FieldSeparator" prompt="parameter_Files_FieldSeparator?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter comment="" name="parameter_Files_Encoding" prompt="parameter_Files_Encoding?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="US-ASCII"/>
+    <contextParameter comment="" name="parameter_Files_parameter_RetailCustomers_Path" prompt="parameter_Files_parameter_RetailCustomers_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/refCustomer.csv"/>
+    <contextParameter comment="" name="parameter_Files_RetailCustomers_Header" prompt="parameter_Files_RetailCustomers_Header?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_Integer" value="6"/>
+    <contextParameter comment="" name="parameter_Files_RetailProducts_Path" prompt="parameter_Files_RetailProducts_Path?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_String" value="/home/talenduser/files/dev/refProducts.csv"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path1" prompt="parameter_Files_RetailSales_Path1?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop1.out"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path2" prompt="parameter_Files_RetailSales_Path2?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop2.out"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path3" prompt="parameter_Files_RetailSales_Path3?" promptNeeded="false" repositoryContextId="_1xLYcKcgEeq7wLNl2wzehA" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop3.out"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" show="false" value="0"/>
@@ -68,7 +95,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:vBkQSDL2of/Ig3wk41H+jY1wJBsZohNRSEuzZ7/2"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:oyGrMxOwFZ7/4twNPbybK0q+yOYeVUivyDdOSNS/"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -103,7 +130,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:KC5yvgOJ69edLpkCik69rEPmXB7rWhHZzBp5w+1t"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:ytqUfVUEhoWUiTNk3PryILAf9iWVRW4y3Gavmtpm"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -211,7 +238,7 @@
     <elementParameter field="TEXT" name="PORT" show="false" value="context.parameter_MySQL_Port"/>
     <elementParameter field="TEXT" name="DBNAME" show="false" value="context.parameter_MySQL_Database"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.parameter_MySQL_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:P9wHHqCeTmlfLftZjjUYtJPGLvgh4SWIOz/kPBcN8X5m81eYefculSj2IuWNpvaGC115a16F1OR+ne+R"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:kR/tkmL4PoRhQf24iWArw8ksAXHza4Kgsk+2IPD0kMfEhIl0xCZzX1h4ml/6S8NfIuqT5Z5b0WqJ7nTo"/>
     <elementParameter field="DBTABLE" name="TABLE" value="context.ProductsDB"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="NONE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -276,7 +303,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="context.Database"/>
     <elementParameter field="TEXT" name="PROPERTIES" value="context.AdditionalParams"/>
     <elementParameter field="TEXT" name="USER" value="context.Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:5X23spdAHCemtRmR6uEFJLhEPz6pKhrgZWQOm1Tucyitfc7yUqrWDVWNcB4="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:PVIHca57gcqpzMzea2zz34r8z0jvgr+btuhPbEYXjIlhBu/6KqzPqm6rsT8="/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
     <elementParameter field="CHECK" name="USE_SHARED_CONNECTION" value="false"/>
@@ -391,13 +418,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_d51d6664-3301-4dfa-a741-112b3f41bea1"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>okSWjitxiuDNieBRrs75sHTqig0LFCX3ci5d9KZ3WCwfmqvwggafEZuVMSOvDgz7UCKAnO0f9LbR
-MMtFn8Lykg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_c3cbea0b-d2ed-4af3-b07f-d648457479f9"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>RX7N6O5qtucSyhpPvScA20geFVJjs4Vg19isJ6HLuR5VfSQ0fDhcgem/13Xk7ozMUUWMouqg1Hfg
-iiXNzBTB0A==</DigestValue></Reference></SignedInfo><SignatureValue>ZvPlrIpNd9Swqjhm1NMgjU11fblFdzye//Ur1jO1+OEbUBy/Pd4YUc1Eq1oEbQB193Djys3PqBKi
-ld5UnC4oql4XosmdK85dFw6x0KSoX8RYvVZlX1hBsUDAQhKEk3s5/V61Hw9zmF+WU/3N4QEgnEpT
-cVgsInv+OY29ZcA1JhIk81IDtlJXXq70eJtF5Hx0Iu5W6FeDsNS/4TEiSF+xCzBCWMkkVjybMe1w
-LXv7zVT/m9yxQ9+5O+rWjpdq8Opxk9k3zlnzE9N5YgqK6ebwYVme9tDShPiktQqqZrZn1F2rltdc
-pAxGLEK8RmlotmIC0pVu75pc59YGmOyHPeu8ZQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_eaf127cb-3a74-4513-86f5-fa06c721c14c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>MUsr2VlZk2wVhPf9FFfg3nK/4W7e5bF06h/ebEC4IAI8GNZ2vI7vNb+qTHeLb/q1NRyPBgFkiKV9
+za4QJO5zBQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_5caddc05-e77a-4b39-8479-a5a03695bc16"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>A0Wmaev6udBIdOTil4QF7iJz6zACXeRuVyOsBFT0A/VnOAhWln/CE9jQWaynkUUx7Qh7toOEEJdY
+nhO+0+saAA==</DigestValue></Reference></SignedInfo><SignatureValue>kPp27kTS112NaVAoTqVrEujQjiqI8sDz/kffK/C39YnP3KYd8ch9+C4Mxp5YXBmbdVSdPjk67H4q
+4qvJIm/sSCoTIwuSDIcaD+e2A7OOlQOmbhAykEEyz048E5JXSWqN3S5fNaRJ5hTm1FemSp6mVbjs
+UR1pEzSSFi3EsTr658wT0wZO3mTwe5hVlWckbm85tDge+HUpnQiZXRggqvQW3hHV+Y8G8igrVrJs
+5rtoi1TDi6ya+x8y/FHz+B3XjH8M+6xIcofESJ6/pJb+qADauBSqrb1tOZcw5OU0FRNTpWJbkd+8
+Dm5lwYNfW3kYenjvIegA3uKdKI/lE1Cx4ptiDw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -419,4 +446,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_c3cbea0b-d2ed-4af3-b07f-d648457479f9" Target="#_d51d6664-3301-4dfa-a741-112b3f41bea1"><Timestamp>2020-12-14 21:09:50</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_5caddc05-e77a-4b39-8479-a5a03695bc16" Target="#_eaf127cb-3a74-4513-86f5-fa06c721c14c"><Timestamp>2021-02-12 19:42:26</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
