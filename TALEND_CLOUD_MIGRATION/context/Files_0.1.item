@@ -10,17 +10,6 @@
     <contextParameter comment="" name="parameter_Files_RetailSales_Path2" prompt="parameter_Files_RetailSales_Path2?" promptNeeded="false" type="id_File" value="C:/StudentFiles/SalesFiles/shop2.out" xmi:id="_hhcO-D2dEeunKJvGE4d2fw"/>
     <contextParameter comment="" name="parameter_Files_RetailSales_Path3" prompt="parameter_Files_RetailSales_Path3?" promptNeeded="false" type="id_File" value="C:/StudentFiles/SalesFiles/shop3.out" xmi:id="_hhcO-T2dEeunKJvGE4d2fw"/>
   </talendfile:ContextType>
-  <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_hhcPBD2dEeunKJvGE4d2fw">
-    <contextParameter comment="" name="parameter_Files_RowSeparator" prompt="parameter_Files_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;" xmi:id="_hhcPBT2dEeunKJvGE4d2fw"/>
-    <contextParameter comment="" name="parameter_Files_FieldSeparator" prompt="parameter_Files_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;" xmi:id="_hhcPBj2dEeunKJvGE4d2fw"/>
-    <contextParameter comment="" name="parameter_Files_Encoding" prompt="parameter_Files_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII" xmi:id="_hhcPBz2dEeunKJvGE4d2fw"/>
-    <contextParameter comment="" name="parameter_Files_parameter_RetailCustomers_Path" prompt="parameter_Files_parameter_RetailCustomers_Path?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/refCustomer.csv" xmi:id="_hhcPCD2dEeunKJvGE4d2fw"/>
-    <contextParameter comment="" name="parameter_Files_RetailCustomers_Header" prompt="parameter_Files_RetailCustomers_Header?" promptNeeded="false" type="id_Integer" value="6" xmi:id="_hhcPCT2dEeunKJvGE4d2fw"/>
-    <contextParameter comment="" name="parameter_Files_RetailProducts_Path" prompt="parameter_Files_RetailProducts_Path?" promptNeeded="false" type="id_String" value="/home/talenduser/files/prd/refProducts.csv" xmi:id="_hhcPCj2dEeunKJvGE4d2fw"/>
-    <contextParameter comment="" name="parameter_Files_RetailSales_Path1" prompt="parameter_Files_RetailSales_Path1?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/SalesFiles/shop1.out" xmi:id="_hhcPCz2dEeunKJvGE4d2fw"/>
-    <contextParameter comment="" name="parameter_Files_RetailSales_Path2" prompt="parameter_Files_RetailSales_Path2?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/SalesFiles/shop2.out" xmi:id="_hhcPDD2dEeunKJvGE4d2fw"/>
-    <contextParameter comment="" name="parameter_Files_RetailSales_Path3" prompt="parameter_Files_RetailSales_Path3?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/SalesFiles/shop3.out" xmi:id="_hhcPDT2dEeunKJvGE4d2fw"/>
-  </talendfile:ContextType>
   <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_cJ4P4G1qEeu3E6uMIIePzQ">
     <contextParameter comment="" name="parameter_Files_RowSeparator" prompt="parameter_Files_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;" xmi:id="_cJ4P4W1qEeu3E6uMIIePzQ"/>
     <contextParameter comment="" name="parameter_Files_FieldSeparator" prompt="parameter_Files_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;" xmi:id="_cJ4P4m1qEeu3E6uMIIePzQ"/>
@@ -32,13 +21,24 @@
     <contextParameter comment="" name="parameter_Files_RetailSales_Path2" prompt="parameter_Files_RetailSales_Path2?" promptNeeded="false" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop2.out" xmi:id="_cJ4P6G1qEeu3E6uMIIePzQ"/>
     <contextParameter comment="" name="parameter_Files_RetailSales_Path3" prompt="parameter_Files_RetailSales_Path3?" promptNeeded="false" type="id_File" value="/home/talenduser/files/dev/SalesFiles/shop3.out" xmi:id="_cJ4P6W1qEeu3E6uMIIePzQ"/>
   </talendfile:ContextType>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_1544301a-c52c-4710-ac10-a29184f333fa"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>Ak9srgeYIxfUK4ts3bU9+E9jQZflg+E4vTbOcCLsBD3wipjkbOu0yV+lge6kKD1bhJIWlJGnX04c
-gaa2JFpswQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_652f63c7-3b17-4090-b328-1f9603936c76"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>p8t7vjeibyYNIECazqJJzDbpVL0/7jG1/Bw+HyoH68VlYCeLudRBlP5QvOwEhmAWEToamfmYV7BO
-vXQy7gpA9A==</DigestValue></Reference></SignedInfo><SignatureValue>iLkKLqfbVB7yHJPlw5SeCMg2W6fLkQ32tZtdE6Wy9wf+36JS6PO4QNLjx98fauA0Y8K7fosU8XY8
-kQBxY4gqmB+4fSd0dTJkKqRRGh3ibbxukKeTNXGlhOstcLpVMlPEYEF023EjLIKqmacawL+bYeNO
-AiihW1pwvbnFjjYEbwv2bOomm1IHMIBF9++xSjHCysbpN3hEBxGvkqRHy6WdRnUmlBbiVsWpiQ7e
-/pklhko4mYsOqLPLHMgOFOvweSt737ipUjYbe0GP4Q65ewzeuTwOj7H097qRILNGJ6qvgQepYQBl
-CKDyIcvutaDxFE858h9XRaKRRHp5idjCzo5vTA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+  <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_hhcPBD2dEeunKJvGE4d2fw">
+    <contextParameter comment="" name="parameter_Files_RowSeparator" prompt="parameter_Files_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;" xmi:id="_hhcPBT2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="" name="parameter_Files_FieldSeparator" prompt="parameter_Files_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;" xmi:id="_hhcPBj2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="" name="parameter_Files_Encoding" prompt="parameter_Files_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII" xmi:id="_hhcPBz2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="" name="parameter_Files_parameter_RetailCustomers_Path" prompt="parameter_Files_parameter_RetailCustomers_Path?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/refCustomer.csv" xmi:id="_hhcPCD2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="" name="parameter_Files_RetailCustomers_Header" prompt="parameter_Files_RetailCustomers_Header?" promptNeeded="false" type="id_Integer" value="6" xmi:id="_hhcPCT2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="" name="parameter_Files_RetailProducts_Path" prompt="parameter_Files_RetailProducts_Path?" promptNeeded="false" type="id_String" value="/home/talenduser/files/prd/refProducts.csv" xmi:id="_hhcPCj2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path1" prompt="parameter_Files_RetailSales_Path1?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/SalesFiles/shop1.out" xmi:id="_hhcPCz2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path2" prompt="parameter_Files_RetailSales_Path2?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/SalesFiles/shop2.out" xmi:id="_hhcPDD2dEeunKJvGE4d2fw"/>
+    <contextParameter comment="" name="parameter_Files_RetailSales_Path3" prompt="parameter_Files_RetailSales_Path3?" promptNeeded="false" type="id_File" value="/home/talenduser/files/prd/SalesFiles/shop3.out" xmi:id="_hhcPDT2dEeunKJvGE4d2fw"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_b4dbaff1-6321-41d5-90a8-3fc3c5d56b94"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>jcmF/2CERd4j2/bJ8VwNJi44hUxvEpc5QrEpX5HO+7fJ/ipxXbpkOVxskERIocRJHaUFNGC0lvOK
+AhoFJbHmmQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_1b3ba230-e71f-4a77-bcb2-75c3152c4133"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>Uhcogzo0lyevkOeFa5HqTpIjpXvsBKif2wsU7Kk8diTBzI9O3JfA4bXqIPPjrYk4QOmJvILeddDt
+e5uSTbK5Bw==</DigestValue></Reference></SignedInfo><SignatureValue>MROTZ/qhg2yZAL8EzHFTFx7K1nyYUlI1Uya0/FUNKzGEwY7GqLGuWc+X07cfnC1H2HGwlDhwUTYd
+Qcy6IlGKYiXAssrg800zRI/hLOfoT2Hqbd9nBEbI5xf7fg6cAZk7PQH5TZeeHq9wDRlCxO7DLf+s
+mKxyutzqm6DRpaj03BxJHOA48r0ss6tzQ2DgfMpGdaxMPYzNywsDw5uhszgfIxpH4xj1ZjHj01eT
+s5/OBsAZkZ82P48g06AHTabtGn+oqztGbWQdeXIBFQPRBxb0S1bW/iRgqEACk1zSJjttR+nOk08L
+nlcE9ZRQ5IMf2GyfG2EnTACPfQJUbwOhrFwOyw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -60,4 +60,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_652f63c7-3b17-4090-b328-1f9603936c76" Target="#_1544301a-c52c-4710-ac10-a29184f333fa"><Timestamp>2021-02-12 19:44:22</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_1b3ba230-e71f-4a77-bcb2-75c3152c4133" Target="#_b4dbaff1-6321-41d5-90a8-3fc3c5d56b94"><Timestamp>2021-02-12 19:46:25</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
