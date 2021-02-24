@@ -29,7 +29,6 @@
     <module>jobs/process/Sales/LoadTables/master_loadtables_0.1</module>
     <module>jobs/process/Sales/Services/service_add_0.1</module>
     <module>jobs/process/Sales/Initialize/preparesalesfiles_0.1</module>
-    <module>jobs/process/Sales/Analytics/retailsales_0.1</module>
     <module>jobs/process/Sales/Initialize/createtables_0.1</module>
     <module>jobs/process/Sales/LoadTables/productstablesetup_0.1</module>
     <module>jobs/process/TestJobs/testcloud_0.1</module>
